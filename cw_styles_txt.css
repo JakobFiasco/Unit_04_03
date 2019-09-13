@@ -4,17 +4,24 @@
    Case Problem 3
    
    Civil War History Style Sheet
-   Author: 
+   Author: Jakob Fiasco
    Date:   
    
    Filename: cw_styles.css
 
 */
-
+ @charset{
+    utf-8;
+ }
 
 /* Structural Styles */
-
-
+section{
+background-color: rgb(151, 151, 151);
+}
+body{
+   background-color: rgb(180, 180, 223);
+   font-family: Verdana, Tahoma, sans-serif
+}
 
 
 /* Body Header Styles */
